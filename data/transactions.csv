@@ -1,0 +1,12 @@
+date,description,category,amount,type
+2026-08-01,Salary,Salary,40000,Income
+2026-08-02,House Rent,Rent,10000,Expense
+2026-08-03,Groceries,Food,3000,Expense
+2026-08-05,Swiggy,Food,1200,Expense
+2026-08-07,Amazon,Shopping,2500,Expense
+2026-08-10,Bus Pass,Transport,800,Expense
+2026-08-12,Netflix,Entertainment,649,Expense
+2026-08-15,Electricity Bill,Utilities,1500,Expense
+2026-08-18,Shopping,Shopping,1800,Expense
+2026-08-20,Restaurant,Food,1000,Expense
+2026-08-25,Internet Bill,Utilities,800,Expense
