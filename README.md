@@ -86,7 +86,7 @@ AI_Personal_Finance_Manager/
 └── test_*.py
 ⚙️ How to Run
 1. Clone the repository
-git clone <your-github-repository-url>
+git clone https://github.com/lakshmip2324/AI_Personal_Finance_Manager.git
 2. Create and activate the environment
 conda create -n finance_agent python=3.11
 conda activate finance_agent
